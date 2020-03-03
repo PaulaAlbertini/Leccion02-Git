@@ -1,4 +1,12 @@
 h1 {color: red;}
 img {width:400px}
-#thirdDiv {width:500; height:600px; color:rebeccapurple; background-color:rosybrown; padding-top: salmon; size: 50px}
-#spanId {font-size: 18px; margin-left: 50px}
+#thirdDiv {
+            width:500px;
+            height:600px;
+            color:rebeccapurple;
+            background-color:rosybrown;
+            margin: 50px;
+            border: 1px solid black;
+        }
+#spanId {font-size: 18px;
+    margin-left: 50px}
